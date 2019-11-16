@@ -1,0 +1,18 @@
+p {
+    font-family: Aclonica;
+    font-size: 80px
+}
+
+div.parallax {
+    background-image: url("https://static.messynessychic.com/wp-content/uploads/2015/10/airbnbcatacombsroom.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    width: 600px;
+    height: 500px;
+}
