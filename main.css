@@ -45,12 +45,14 @@ div.parallax {
  }
 
 .vaheleht a:link, .vaheleht a:visited {
+    display: block;
     width: 250px;
     color: white;
     text-decoration: none;
 }
 
 .vaheleht:hover, .vaheleht a:hover {
+    display: block;
     width: 250px;
     cursor: pointer;
     background-color: rgb(38, 38, 38);
