@@ -13,5 +13,7 @@ $(document).ready(function() {
 	function redirectPage() {
 		window.location = linkLocation;
 	}
-	
+
 });
+
+<!-- https://onextrapixel.com/how-to-use-jquery-to-make-slick-page-transitions/ -->
