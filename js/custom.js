@@ -1,3 +1,5 @@
+//https://onextrapixel.com/how-to-use-jquery-to-make-slick-page-transitions/
+
 $(document).ready(function() {
 	
 	$("body").css("display", "none");
@@ -15,5 +17,3 @@ $(document).ready(function() {
 	}
 
 });
-
-<!-- https://onextrapixel.com/how-to-use-jquery-to-make-slick-page-transitions/ -->
