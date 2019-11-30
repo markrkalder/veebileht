@@ -75,10 +75,3 @@
     transition: 0.3s;
 }
 
-.main-footer {
-    position: -webkit-sticky;
-    position: sticky;
-    bottom: 0;
-    width: 75%;
-    margin: 0 auto;
-}
