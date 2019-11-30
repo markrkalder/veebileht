@@ -1,4 +1,4 @@
-div.parallax {
+.parallax {
     background-image: url("https://static.messynessychic.com/wp-content/uploads/2015/10/airbnbcatacombsroom.jpg");
     height: 500px;
     background-attachment: fixed;
@@ -14,13 +14,17 @@ div.parallax {
 
 .title{
     font-family: 'Verdana';
-    font-size: 150px;
-    text-align: center
+    font-size: 30px;
+    text-align: center;
 }
 
-.header {
+.main-header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
     width: 80%;
     margin: 0 auto;
+
 }
 
 .body {
@@ -32,7 +36,7 @@ div.parallax {
 }
 
 .vaheleht {
-    display: block;
+    display: inline-block;
     width: 250px;
     text-transform: uppercase;
     font-size: 20px;
@@ -42,18 +46,24 @@ div.parallax {
     border-right:1px solid #bbb;
     border-left:1px solid #bbb;
     background-color: rgb(0, 0, 0);
+
  }
 
 .vaheleht a:link, .vaheleht a:visited {
-    display: block;
-    width: 250px;
     color: white;
     text-decoration: none;
+
 }
 
 .vaheleht:hover, .vaheleht a:hover {
-    display: block;
-    width: 250px;
     cursor: pointer;
     background-color: rgb(38, 38, 38);
+
+}
+
+.main-footer {
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+
 }
