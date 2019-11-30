@@ -12,6 +12,32 @@
     height: 500px;
 }
 
+.index-nav {
+    position: sticky;
+    margin: 0 auto;
+    top: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: azure;
+    box-shadow: 0px 0px 35px 2px rgba(0,0,0,0.75);
+}
+
+.menu-index {
+    display: table;
+    table-layout: fixed;
+    list-style-type: none;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.vaheleht-index {
+    display: table-cell;
+    text-align: center;
+    font-size: 16px;
+    text-transform: uppercase;
+    background-image: url("circlebackground.png");
+}
+
 .title {
     font-family: 'Verdana';
     font-size: 150px;
