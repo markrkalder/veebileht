@@ -1,7 +1,6 @@
 .game_links:link, .game_links:visited {
     color: white;
     padding: 14px 16px;
-    text-align: center;
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
@@ -17,4 +16,8 @@
 .game_links:hover {
     opacity: 0.6;
     transition: 0.3s;
+}
+
+.game_link_button {
+    text-align: center;
 }
