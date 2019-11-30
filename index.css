@@ -1,4 +1,4 @@
-.parallax {
+﻿.parallax {
     background-image: url("taustapilt");
     height: 500px;
     background-attachment: fixed;
@@ -12,7 +12,7 @@
     height: 500px;
 }
 
-.title{
+.title {
     font-family: 'Verdana';
     font-size: 150px;
     text-align: center
