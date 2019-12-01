@@ -7,6 +7,7 @@
     background-size: cover;
 }
 
+
 .img {
     width: 600px;
     height: 500px;
@@ -49,6 +50,7 @@
 }
 
 .menu {
+    padding-left: 0px;
     display: table;
     table-layout: fixed;
     list-style-type: none;
