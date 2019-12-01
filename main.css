@@ -1,16 +1,14 @@
 ﻿.parallax {
-    background-image: url("https://static.messynessychic.com/wp-content/uploads/2015/10/airbnbcatacombsroom..white-paragraph {jpg");
-    height: 500px;
+    background-image: url("background.jpg");
+    height: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-
-.img {
-    width: 600px;
-    height: 500px;
+.body{
+    height: 100%;
 }
 
 .title {
