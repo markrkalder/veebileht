@@ -1,8 +1,9 @@
 ﻿.title-index {
-    font-size: 50px;
+    font-family: 'Josefin Sans';
+    font-size: 80px;
     text-align: center;
-    padding-top: 350px;
-    padding-bottom: 350px;
+    padding-top: 300px;
+    padding-bottom: 500px;
 }
 
 .index-nav {
@@ -27,12 +28,14 @@
     width: 33.3%;
     display: table-cell;
     text-align: center;
-    font-size: 80px;
+    font-size: 60px;
+    font-family: 'Josefin Sans';
 }
+
 .vahelink-index {
-    padding: 50px 105px;
-    border-right: 2px solid #bbb;
-    border-left: 2px solid #bbb;
+    padding: 30px 70px;
+    margin: 20px;
+    border: 2px solid #bbb;
     background-color: rgb(0, 0, 0);
 }
 
