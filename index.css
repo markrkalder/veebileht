@@ -1,4 +1,6 @@
-﻿.title-index {
+﻿@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+.title-index {
     font-family: 'Josefin Sans';
     font-size: 80px;
     text-align: center;

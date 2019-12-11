@@ -1,4 +1,6 @@
-﻿.parallax {
+﻿@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+.parallax {
     background-image: url("background.jpg");
     height: 100%;
     background-attachment: fixed;

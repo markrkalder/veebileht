@@ -1,4 +1,6 @@
-﻿.game_links:link, .game_links:visited {
+﻿@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+.game_links:link, .game_links:visited {
     color: white;
     padding: 14px 16px;
     text-decoration: none;
